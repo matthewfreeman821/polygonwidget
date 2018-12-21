@@ -9,8 +9,17 @@
   color: white;
   font-family: Helvetica;
   padding: 20px;
+  transition: .1s background;
+}
+
+.box:hover {
+  background: #FF0052;
 }
 
 .middle {
   background-color: #B20039;
+}
+
+h3 {
+  font-size: 25px;
 }
