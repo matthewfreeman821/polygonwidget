@@ -5,8 +5,7 @@
 
 .box {
   background-color: #CC0042;
-  flex-basis: 200px;
-  flex-grow: 1;
+  flex: 1 1 200px;
 }
 
 .middle {
